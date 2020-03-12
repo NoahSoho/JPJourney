@@ -16,10 +16,6 @@ h1 {
     margin-right: auto;
     padding-bottom: 10px;
 }
-form {
-    display: table;
-    padding: 10px;
-}
 
 div.tableRow {
     display: table-row;
